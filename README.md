@@ -1,4 +1,4 @@
-# youtube-sentiment_analysis# sentiment_analysis.py
+# sentiment_analysis.py
 # -----------------------------------------------
 # Youtube 댓글 데이터셋 감정 분석 프로젝트
 # Kaggle 데이터셋 기반
